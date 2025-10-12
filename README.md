@@ -204,7 +204,7 @@ While containerization introduces a slight performance overhead, it also enhance
 
 ---
 
-*Project by **Samithran Ramesh** — Cloud Security Operations Lab (2024)*
+*Project by **Samithran Ramesh** — Cloud Security Operations Lab*
 
 ---
 
